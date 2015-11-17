@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Spyder
+GenericName=Spyder
+Comment=Matlab:The Language of Technical Computing
+Exec=spyder
+Icon=/opt/spyder/spyder.ico
+Terminal=false
+Categories=Development;Spyder;

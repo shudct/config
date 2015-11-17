@@ -1,5 +1,4 @@
 sudo apt-get update
-sudo apt-get upgrade
 sudo apt-get install git
 sudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler 
 sudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev 

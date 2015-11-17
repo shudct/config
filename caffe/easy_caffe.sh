@@ -10,3 +10,5 @@ sudo cp -r *.conf  /etc/ld.so.conf.d/
 sudo ldconfig
 
 cd /opt/ & sudo git clone https://github.com/xianyi/OpenBLAS & cd OpenBLAS & sudo make -j32 & sudo make install 
+
+cd ~/ & git clone https://github.com/BVLC/caffe & cd caffe & make -j32
